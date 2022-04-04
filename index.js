@@ -33,9 +33,8 @@ if (texts) {
 formEl.onsubmit = function (e) {
   // prevents form submission
   e.preventDefault();
-  // save name element's content to cookies
-  // save textArea's content to localstorage
-  // YOUR CODE HERE
+
+  
 
   textDisplay = textArea.value;
 
